@@ -1,0 +1,8 @@
+﻿  test1.cpp
+  test.cpp
+D:\文件\workspace\新建文件夹\扫雷Windows\扫雷Windows\test.cpp(50,28): error C2440: “=”: 无法从“const char [6]”转换为“LPCWSTR”
+D:\文件\workspace\新建文件夹\扫雷Windows\扫雷Windows\test.cpp(50,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\文件\workspace\新建文件夹\扫雷Windows\扫雷Windows\test.cpp(73,16): error C2664: “HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)”: 无法将参数 2 从“const char [6]”转换为“LPCWSTR”
+D:\文件\workspace\新建文件夹\扫雷Windows\扫雷Windows\test.cpp(73,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4432,1): message : 参见“CreateWindowExW”的声明
+  test1.h

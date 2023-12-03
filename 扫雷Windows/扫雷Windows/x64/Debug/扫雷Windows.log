@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\文件\workspace\新建文件夹\扫雷Windows\扫雷Windows\test.cpp(106): warning C4715: “WindowProc”: 不是所有的控件路径都返回值
+  扫雷Windows.vcxproj -> D:\文件\workspace\新建文件夹\扫雷Windows\x64\Debug\扫雷Windows.exe
